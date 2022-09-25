@@ -1,5 +1,5 @@
-# tes
-tes Tugas Istri with Python
+# Tugas Python Istri
+Tes Upload Tugas Istri with Python
 from tkinter import *
 class Windowku:
     def __init__(self, win):
